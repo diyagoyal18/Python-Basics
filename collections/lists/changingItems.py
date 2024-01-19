@@ -13,3 +13,4 @@ print(fruits)
 
 fruits[0:2]="papaya"
 print(fruits)
+
